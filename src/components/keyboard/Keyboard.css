@@ -1,0 +1,6 @@
+.calculator-row {
+    margin: 4px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
