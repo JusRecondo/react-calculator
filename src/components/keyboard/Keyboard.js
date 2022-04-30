@@ -30,7 +30,6 @@ const Keyboard = ({addInput, clear, calculate}) => {
           <Boton handleClick={addInput}>.</Boton>
           <Boton handleClick={addInput}>/</Boton>
         </div>
-        {/* mejorar*/}
         <div className='calculator-row'>
           <Button handleClick={clear}>Clear</Button>
         </div>
